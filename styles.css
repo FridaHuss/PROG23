@@ -1,0 +1,21 @@
+    p {
+        background-color: blueviolet;
+        color: salmon;
+        font-size: 10px;
+        border: 5px dotted maroon;
+    }
+
+    #Paragraf{
+        background-color: rebeccapurple;
+    }
+
+    .text{
+        background-color: blue;
+    }
+
+    .text-description{
+        border: Spx solid greenyellow;
+    }
+
+
+  
